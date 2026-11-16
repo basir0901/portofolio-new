@@ -55,7 +55,7 @@ export interface CertificationItem {
 }
 
 export const PERSONAL_INFO = {
-  name: "Hai, Saya Basir",
+  name: "Hai, Saya Basir ganteng",
   availabilityText1:
     "Saya terbuka dengan posisi lain di luar posisi yang pernah saya kerjakan",
   availabilityText2:
