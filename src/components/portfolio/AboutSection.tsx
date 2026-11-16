@@ -53,8 +53,8 @@ export const AboutSection = () => {
     },
     {
       step: "04",
-      company: "PT IDS Teknologi Indonesia",
-      shortCompany: "IDS Teknologi (Kansai Paint)",
+      company: "Dyafera Teknologi",
+      shortCompany: "Dyafera Teknologi",
       period: "July - September 2026",
       duration: "1.5 Bulan",
       type: "Project-Based",
@@ -108,8 +108,8 @@ export const AboutSection = () => {
     },
     {
       step: "04",
-      company: "PT IDS Teknologi Indonesia",
-      shortCompany: "IDS Teknologi (Kansai Paint)",
+      company: "Dyafera Teknologi",
+      shortCompany: "Dyafera Teknologi",
       period: "2026",
       duration: "1.5 Months",
       type: "Project-Based",
@@ -246,7 +246,7 @@ export const AboutSection = () => {
                     <ul className="space-y-2 text-sm text-[#292722] font-medium">
                       <li className="flex items-start gap-2">
                         <span className="w-2 h-2 rounded-sm bg-[#292722] mt-1.5 flex-shrink-0" />
-                        <span><strong className="text-[#292722] font-bold">PT IDS Teknologi Indonesia</strong> ({isEn ? "1.5 Months" : "1.5 Bulan"})</span>
+                        <span><strong className="text-[#292722] font-bold">Dyafera Teknologi</strong> ({isEn ? "1.5 Months" : "1.5 Bulan"})</span>
                       </li>
                     </ul>
                   </div>

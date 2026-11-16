@@ -78,7 +78,7 @@ export const PERSONAL_INFO = {
 export const EXPERIENCES: ExperienceBlock[] = [
   {
     id: "ids-teknologi",
-    company: "PT IDS Teknologi Indonesia",
+    company: "Dyafera Teknologi",
     role: "Software Engineer",
     period: "2026",
     location: "Bogor, Indonesia",
@@ -539,7 +539,7 @@ export const FAQ_LIST: FaqItem[] = [
   {
     question: "Bagaimana rincian pengalaman kerja ~1.5 tahun Anda selama ini?",
     answer:
-      "Pengalaman ~1.5 tahun saya terakumulasi di 4 perusahaan lintas industri, yaitu 3 perusahaan internship (PT Telkom Satelit Indonesia selama 5 bulan, PT Cipta Krida Bahari selama 5 bulan, PT Sinergi Informatika Semen Indonesia selama 6 bulan) serta 1 project-based di PT IDS Teknologi Indonesia selama 1.5 bulan.",
+      "Pengalaman ~1.5 tahun saya terakumulasi di 4 perusahaan lintas industri, yaitu 3 perusahaan internship (PT Telkom Satelit Indonesia selama 5 bulan, PT Cipta Krida Bahari selama 5 bulan, PT Sinergi Informatika Semen Indonesia selama 6 bulan) serta 1 project-based di Dyafera Teknologi selama 1.5 bulan.",
     category: "Riwayat Pengalaman",
   },
   {

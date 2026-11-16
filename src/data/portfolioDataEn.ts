@@ -31,9 +31,9 @@ export const PERSONAL_INFO_EN = {
 export const EXPERIENCES_EN: ExperienceBlock[] = [
   {
     id: "ids-teknologi",
-    company: "PT IDS Teknologi Indonesia",
+    company: "Dyafera Teknologi",
     role: "Software Engineer",
-    period: "2026",
+    period: "August 2026",
     location: "Jakarta, Indonesia",
     employmentType: "Project-Based",
     problemToSolve:
@@ -463,7 +463,7 @@ export const FAQ_LIST_EN: FaqItem[] = [
   {
     question: "How is your ~1.5 years of experience broken down?",
     answer:
-      "My ~1.5 years of experience is distributed across 4 companies in diverse industries: 3 internships (PT Telkom Satelit Indonesia for 5 months, PT Cipta Krida Bahari for 5 months, PT Sinergi Informatika Semen Indonesia for 6 months), and 1 project-based engagement at PT IDS Teknologi Indonesia for 1.5 months.",
+      "My ~1.5 years of experience is distributed across 4 companies in diverse industries: 3 internships (PT Telkom Satelit Indonesia for 5 months, PT Cipta Krida Bahari for 5 months, PT Sinergi Informatika Semen Indonesia for 6 months), and 1 project-based engagement at Dyafera Teknologi for 1 month.",
     category: "Experience Overview",
   },
   {
