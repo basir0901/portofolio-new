@@ -53,10 +53,10 @@ export const AboutSection = () => {
     },
     {
       step: "04",
-      company: "Dyafera Teknologi",
-      shortCompany: "Dyafera Teknologi",
-      period: "July - September 2026",
-      duration: "1.5 Bulan",
+      company: "IT Consulting Client & Confidential Enterprise Project",
+      shortCompany: "IT Consulting Client & Confidential Enterprise Project",
+      period: "Agustus 2026",
+      duration: "4 — 5 Minggu",
       type: "Project-Based",
       typeBadge: "bg-[#D5BDAF]/50 text-[#292722] border-[#D5BDAF]",
       role: "Software Engineer",
@@ -108,10 +108,10 @@ export const AboutSection = () => {
     },
     {
       step: "04",
-      company: "Dyafera Teknologi",
-      shortCompany: "Dyafera Teknologi",
-      period: "2026",
-      duration: "1.5 Months",
+      company: "IT Consulting Client & Confidential Enterprise Project",
+      shortCompany: "IT Consulting Client & Confidential Enterprise Project",
+      period: "August 2026",
+      duration: "4 — 5 Weeks",
       type: "Project-Based",
       typeBadge: "bg-[#D5BDAF]/50 text-[#292722] border-[#D5BDAF]",
       role: "Software Engineer",
@@ -239,14 +239,14 @@ export const AboutSection = () => {
                         </span>
                       </div>
                       <span className="text-xs font-bold px-2.5 py-0.5 rounded bg-[#D5BDAF]/40 text-[#292722] border border-[#D5BDAF]">
-                        {isEn ? "1.5 Months" : "1.5 Bulan"}
+                        {isEn ? "4 — 5 Weeks" : "4 — 5 Minggu"}
                       </span>
                     </div>
 
                     <ul className="space-y-2 text-sm text-[#292722] font-medium">
                       <li className="flex items-start gap-2">
                         <span className="w-2 h-2 rounded-sm bg-[#292722] mt-1.5 flex-shrink-0" />
-                        <span><strong className="text-[#292722] font-bold">Dyafera Teknologi</strong> ({isEn ? "1.5 Months" : "1.5 Bulan"})</span>
+                        <span><strong className="text-[#292722] font-bold">IT Consulting Client & Confidential Enterprise Project</strong> ({isEn ? "4 — 5 Weeks" : "4 — 5 Minggu"})</span>
                       </li>
                     </ul>
                   </div>

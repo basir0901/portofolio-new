@@ -31,10 +31,10 @@ export const PERSONAL_INFO_EN = {
 export const EXPERIENCES_EN: ExperienceBlock[] = [
   {
     id: "ids-teknologi",
-    company: "Dyafera Teknologi",
+    company: "IT Consulting Client & Confidential Enterprise Project",
     role: "Software Engineer",
     period: "August 2026",
-    location: "Jakarta, Indonesia",
+    location: "Indonesia",
     employmentType: "Project-Based",
     problemToSolve:
       "The client's internal enterprise application was originally built on a conventional multi-page architecture using HTML, CSS, and Vanilla JavaScript. As business demands expanded, the system was required to accommodate 30 business modules across 4 core domains and 49 operational and approval workflows. The legacy architecture faced scalability bottlenecks in navigation efficiency, codebase maintainability, and user interface consistency. Each page navigation triggered a full document reload, resulting in sluggish user experiences during multi-step transactions. Additionally, fragmented UI implementations and state management heightened maintenance overhead and impeded UI standardization across modules. A comprehensive frontend modernization to a React.js Single Page Application (SPA) was required to boost navigation responsiveness, streamline state management, and establish a modular, maintainable foundation for future business growth.",
@@ -212,6 +212,13 @@ export const EXPERIENCES_EN: ExperienceBlock[] = [
         title: "Internship Verification Profile at PT SISI — MagangHub",
         caption:
           "Official verification credential at PT Sinergi Informatika Semen Indonesia (GRAHA Aktiva 11th Floor, Jakarta) registered in MagangHub Kemnaker.",
+        isPrimary: false,
+      },
+      {
+        url: "/assets/sisi/sertifikat_magang_hub.jpg",
+        title: "Official Internship Certificate — MagangHub Kemnaker & PT SISI",
+        caption:
+          "Official Certificate of Completion (No. MN.031.041543.02.2025) for the Graduate Internship Program at PT Sinergi Informatika Semen Indonesia with the grade of Excellent, issued by Kemnaker RI and PT SISI.",
         isPrimary: false,
       },
     ],
@@ -463,7 +470,7 @@ export const FAQ_LIST_EN: FaqItem[] = [
   {
     question: "How is your ~1.5 years of experience broken down?",
     answer:
-      "My ~1.5 years of experience is distributed across 4 companies in diverse industries: 3 internships (PT Telkom Satelit Indonesia for 5 months, PT Cipta Krida Bahari for 5 months, PT Sinergi Informatika Semen Indonesia for 6 months), and 1 project-based engagement at Dyafera Teknologi for 1 month.",
+      "My ~1.5 years of experience is distributed across 4 companies in diverse industries: 3 internships (PT Telkom Satelit Indonesia for 5 months, PT Cipta Krida Bahari for 5 months, PT Sinergi Informatika Semen Indonesia for 6 months), and 1 project-based engagement at IT Consulting Client & Confidential Enterprise Project for 4 — 5 weeks.",
     category: "Experience Overview",
   },
   {

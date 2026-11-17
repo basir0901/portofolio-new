@@ -78,10 +78,10 @@ export const PERSONAL_INFO = {
 export const EXPERIENCES: ExperienceBlock[] = [
   {
     id: "ids-teknologi",
-    company: "Dyafera Teknologi",
+    company: "IT Consulting Client & Confidential Enterprise Project",
     role: "Software Engineer",
-    period: "2026",
-    location: "Bogor, Indonesia",
+    period: "Agustus 2026",
+    location: "Indonesia",
     employmentType: "Project Based",
     problemToSolve: "Aplikasi internal enterprise sebelumnya dibangun menggunakan arsitektur multi-page konvensional berbasis HTML, CSS, dan Vanilla JavaScript. Seiring berkembangnya kebutuhan bisnis, sistem harus mengakomodasi 30 modul bisnis yang tersebar dalam 4 domain utama serta 49 tahapan workflow operasional dan persetujuan. Arsitektur lama mulai menghadapi tantangan dalam hal efisiensi navigasi, pengelolaan kode, dan konsistensi antarmuka. Setiap perpindahan halaman memerlukan proses reload dokumen, sehingga pengalaman pengguna menjadi kurang responsif ketika menjalankan proses bisnis yang melibatkan banyak tahapan. Selain itu, implementasi antarmuka dan pengelolaan interaksi yang tersebar pada berbagai halaman meningkatkan kompleksitas pemeliharaan serta menyulitkan standarisasi komponen dan perilaku sistem antarmodul. Diperlukan modernisasi arsitektur frontend menjadi Single Page Application (SPA) berbasis React.js untuk meningkatkan responsivitas navigasi, menyederhanakan pengelolaan state, serta membangun fondasi frontend yang lebih modular, konsisten, dan mudah dikembangkan seiring pertumbuhan kebutuhan bisnis.",
     responsibilities: [
@@ -257,6 +257,13 @@ export const EXPERIENCES: ExperienceBlock[] = [
         title: "Profil Verifikasi Magang PT SISI — MagangHub",
         caption:
           "Dokumentasi identitas resmi peserta magang di PT Sinergi Informatika Semen Indonesia (GRAHA Aktiva Lt. 11, Jakarta Selatan) terdaftar pada sistem MagangHub Kemnaker.",
+        isPrimary: false,
+      },
+      {
+        url: "/assets/sisi/sertifikat_magang_hub.jpg",
+        title: "Sertifikat Magang — MagangHub Kemnaker & PT SISI",
+        caption:
+          "Sertifikat resmi Program Pemagangan Lulusan Perguruan Tinggi di PT Sinergi Informatika Semen Indonesia (Kemnaker & PT SISI) dengan predikat Sangat Baik.",
         isPrimary: false,
       },
     ],
@@ -539,7 +546,7 @@ export const FAQ_LIST: FaqItem[] = [
   {
     question: "Bagaimana rincian pengalaman kerja ~1.5 tahun Anda selama ini?",
     answer:
-      "Pengalaman ~1.5 tahun saya terakumulasi di 4 perusahaan lintas industri, yaitu 3 perusahaan internship (PT Telkom Satelit Indonesia selama 5 bulan, PT Cipta Krida Bahari selama 5 bulan, PT Sinergi Informatika Semen Indonesia selama 6 bulan) serta 1 project-based di Dyafera Teknologi selama 1.5 bulan.",
+      "Pengalaman ~1.5 tahun saya terakumulasi di 4 perusahaan lintas industri, yaitu 3 perusahaan internship (PT Telkom Satelit Indonesia selama 5 bulan, PT Cipta Krida Bahari selama 5 bulan, PT Sinergi Informatika Semen Indonesia selama 6 bulan) serta 1 project-based di IT Consulting Client & Confidential Enterprise Project selama 4 — 5 minggu.",
     category: "Riwayat Pengalaman",
   },
   {
