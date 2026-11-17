@@ -181,28 +181,28 @@ export const EXPERIENCES_EN: ExperienceBlock[] = [
       },
       {
         url: "/assets/sisi/csa9.png",
-        title: "KPI: Quality Standards & System Go-Live",
+        title: "Performance Indicator / KPI: Quality Standards & System Go-Live",
         caption:
           "Evaluation metrics confirming 100% on-time go-live, data accuracy >=99%, system uptime >=99.5%, and 100% regulatory audit trail readiness.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa10.png",
-        title: "Performance Evaluation: Report Dashboard App Development",
+        title: "Performance Indicator / KPI: Report Dashboard App Development",
         caption:
           "KPI review on developing system-based reporting applications to empower strategic and operational decision-making.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa11.png",
-        title: "Performance Evaluation: Sheet Control App Development",
+        title: "Performance Indicator / KPI: Sheet Control App Development",
         caption:
           "KPI achievement verifying 100% core feature readiness and data ingestion workflows for the Sheet Control validation app.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa12.png",
-        title: "Performance Evaluation: ETL Pipeline Completeness & Accuracy",
+        title: "Performance Indicator / KPI: ETL Pipeline Completeness & Accuracy",
         caption:
           "KPI evaluation validating ETL pipeline completeness and accuracy (>=95%) with zero record loss or logical transformation errors.",
         isPrimary: false,

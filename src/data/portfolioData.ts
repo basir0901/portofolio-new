@@ -226,28 +226,28 @@ export const EXPERIENCES: ExperienceBlock[] = [
       },
       {
         url: "/assets/sisi/csa9.png",
-        title: "Indikator Kinerja: Standar Kualitas & Go-Live Sistem",
+        title: "Indikator Kinerja / KPI: Standar Kualitas & Go-Live Sistem",
         caption:
           "Verifikasi pencapaian target evaluasi sistem mencakup Go-Live On-Time 100%, akurasi data >=99%, system uptime >=99.5%, serta pemenuhan 100% audit trail kepatuhan regulasi.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa10.png",
-        title: "Evaluasi Kinerja: Pengembangan Aplikasi Report Dashboard",
+        title: "Indikator Kinerja / KPI: Pengembangan Aplikasi Report Dashboard",
         caption:
           "Penilaian KPI pengembangan aplikasi pelaporan berbasis sistem untuk mendukung keputusan operasional dengan target deployment dashboard ke lingkungan production.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa11.png",
-        title: "Evaluasi Kinerja: Pembuatan Aplikasi Sheet Control",
+        title: "Indikator Kinerja / KPI: Pembuatan Aplikasi Sheet Control",
         caption:
           "Penilaian capaian 100% penyelesaian fitur inti dan upload data aplikasi Sheet Control sesuai timeline, dengan predikat baik pada produktivitas dan kerja sama tim.",
         isPrimary: false,
       },
       {
         url: "/assets/sisi/csa12.png",
-        title: "Evaluasi Kinerja: Kelengkapan & Akurasi Pipeline ETL",
+        title: "Indikator Kinerja / KPI: Kelengkapan & Akurasi Pipeline ETL",
         caption:
           "Penilaian capaian target pipeline ETL (minimal 95% data akurat dan lengkap) tanpa kehilangan record maupun kesalahan transformasi logis untuk pelaporan korporat.",
         isPrimary: false,
